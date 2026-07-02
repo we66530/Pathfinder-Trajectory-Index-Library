@@ -1,4 +1,7 @@
-# Pathfinder Trajectory Index Library
+<h1>
+  <img src="Demo_Images/Logo.jpg" alt="Pathfinder Logo" width="48" style="vertical-align: middle; margin-right: 12px;">
+  Pathfinder Trajectory Index Library
+</h1>
 
 A lightweight ZED 2i + SLAM trajectory indexing pipeline for building a rough spatial map, recording camera trajectory, and generating detailed single-frame point clouds on demand.
 
