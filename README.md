@@ -1,5 +1,5 @@
 <h1>
-  <img src="Demo_Images/Logo.jpg" alt="Pathfinder Logo" width="48" style="vertical-align: middle; margin-right: 12px;">
+  <img src="Demo_Images/Logo.jpg" alt="Pathfinder Logo" width="64" style="vertical-align: middle; margin-right: 12px;">
   Pathfinder Trajectory Index Library
 </h1>
 
