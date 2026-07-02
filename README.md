@@ -1,6 +1,3 @@
-# Pathfinder-Trajectory-Index-Library
-A trajectory indexing library for rough SLAM maps with on-demand single-frame metric point cloud reconstruction.
-
 # Pathfinder Trajectory Index Library
 
 A lightweight ZED 2i + SLAM trajectory indexing pipeline for building a rough spatial map, recording camera trajectory, and generating detailed single-frame point clouds on demand.
